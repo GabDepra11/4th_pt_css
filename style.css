@@ -62,7 +62,7 @@
             line-height: 1.6;
         }
 
-        .small{
-            color: #DE3163
-            font-family: 'Tahoma'
-        }
+       .small {
+  color: #DE3163;
+  font-family: Tahoma, sans-serif;
+}
