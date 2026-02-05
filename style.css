@@ -1,8 +1,7 @@
  body {
             font-family: 'Trebuchet MS'; sans-serif
             background-color: #90E0EF;
-            color: #e0e0e0;
-            margin: 0;
+            margin: 1.5;
             padding: 20px;
             overflow-x: hidden;
         }
